@@ -612,7 +612,7 @@ td:last-child {
      text-align: center;
  }
 
- /* Video Background -------------------------------------------------- */
+/* Video Background -------------------------------------------------- */
 .video-bg {
     position: relative;
 }
@@ -648,7 +648,7 @@ video {
 }
 
 /* Slideshow -------------------------------------------------- */
-.slick-slide img{
+.slick-slide img {
     width: 100%;
 }
 .slideshow .slick-slide {
